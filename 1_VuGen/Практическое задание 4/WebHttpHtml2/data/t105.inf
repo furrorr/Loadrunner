@@ -1,0 +1,13 @@
+[t105]
+FileName1=t105.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=11:J2idnxBqRQ4PdBYdNqwT-9T5L6vGdxLLvW4kAfR5ELM&cup2hreq=8d0854a7e42e8a9a2788d256303b5d354f09d74f4ecdc5370ee4cf177f9bf32a
+Total=2
+RequestHeaderFile=t105_RequestHeader.txt
+RequestBodyFile=t105_RequestBody.txt
+ResponseHeaderFile=t105_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_105.xml
+FileName2=t105_collect.gif
+URL2=https://www.google-analytics.com/collect?v=1&_v=j96&a=1708240559&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&dp=background.html%3Fv%3D5.1.7&ul=ru-ru&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QCCAgEAB~&jid=1483047891&gjid=1084983290&cid=1036189143.1632641083&tid=UA-55554816-6&_gid=1271469547.1647872441&z=1720835344
+[ProtocolInfo]
+ProtocolId=QTWeb

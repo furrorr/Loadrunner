@@ -1,0 +1,13 @@
+[t25]
+FileName1=t25.htm
+URL1=http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=true
+Total=2
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t25_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_25.xml
+FileName2=t25_collect.gif
+URL2=https://www.google-analytics.com/collect?v=1&_v=j96&a=1765086599&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&dp=background.html%3Fv%3D5.1.7&ul=ru-ru&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QCCAgEAB~&jid=778552756&gjid=2080712822&cid=1036189143.1632641083&tid=UA-55554816-6&_gid=1271469547.1647872441&z=1117223038
+[ProtocolInfo]
+ProtocolId=QTWeb

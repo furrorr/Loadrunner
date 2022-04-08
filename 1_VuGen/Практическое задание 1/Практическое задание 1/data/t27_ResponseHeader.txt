@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Sat, 26 Mar 2022 09:29:41 GMT
+Content-Type: application/json
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Security-Policy: block-all-mixed-content
+ETag: W/"0e90c3e55210c2465c16ee905daf90d6"
+Last-Modified: Fri, 22 Oct 2021 09:25:35 GMT
+Vary: Origin
+X-Cache: MISS
+X-Cache-Lookup: MISS
+X-Xss-Protection: 1; mode=block
+x-amz-meta-mtime: 1634894735
+X-Storage-Type: main-s3
+Content-Encoding: gzip
+Cache-Control: private, no-cache
+Accept-Ranges: bytes
+

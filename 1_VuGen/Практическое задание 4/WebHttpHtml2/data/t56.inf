@@ -1,0 +1,11 @@
+[t56]
+FileName1=t56.txt
+URL1=https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-55554816-6&cid=1036189143.1632641083&jid=479501422&gjid=1526732030&_gid=1271469547.1647872441&_u=QCCAgEABAAAAAE~&z=1850810195
+Total=1
+RequestHeaderFile=t56_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t56_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_56.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

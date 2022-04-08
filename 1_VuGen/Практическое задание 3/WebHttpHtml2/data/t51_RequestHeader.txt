@@ -1,0 +1,26 @@
+GET /watch?v=xCDRjNegYSA HTTP/1.1
+Host: www.youtube.com
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Google Chrome";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-full-version: "99.0.4844.82"
+sec-ch-ua-arch: "x86"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-platform-version: "14.0.0"
+sec-ch-ua-model: ""
+sec-ch-ua-bitness: "64"
+sec-ch-ua-full-version-list: " Not A;Brand";v="99.0.0.0", "Chromium";v="99.0.4844.82", "Google Chrome";v="99.0.4844.82"
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Service-Worker-Navigation-Preload: true
+X-Client-Data: CI22yQEIprbJAQjEtskBCKmdygEIg9LKAQjfgssBCJOhywEI6vLLAQie+csBCOeEzAEIpY7MAQjOmMwBCJuczAEIwZ7MAQiaocwBCNCizAE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: VISITOR_INFO1_LIVE=EVwgkU6PMm0; _gcl_au=1.1.301206756.1640890497; wide=1; PREF=volume=100&f6=80080&tz=Asia.Yekaterinburg&f5=20000; YSC=sic7D1NSQS0
+

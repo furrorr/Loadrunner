@@ -1,0 +1,12 @@
+GET /async/newtab_ogb?hl=ru&async=fixed:0 HTTP/1.1
+Host: www.google.com
+Connection: keep-alive
+X-Client-Data: CI22yQEIprbJAQjEtskBCKmdygEIg9LKAQjfgssBCJKhywEI6vLLAQie+csBCOeEzAEIpY7MAQjOmMwBCJuczAEIwZ7MAQiaocwBCNCizAE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: 1P_JAR=2022-03-27-02; NID=511=vzWTP6DxLjsnR3dZ3Rat2dIn4xVdroyfb2yjaSFoJSsZ2jWz7gDosvtdZ8iRxTx-hiI825lSD0hWsiU_KWOwmkl0Fa3HZLdYH63GQlBgNfcVMx-gqjmS9qKLTe9VRUJhn2SbTDdXoUsJnMy9jTRqg5OHSQksjlwK3HhU7CoUUPLvi9d4J4p2seqHd7h2o0GQLMejNzhTlCHYqjA
+

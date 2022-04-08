@@ -1,0 +1,307 @@
+6de2
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <meta name="google" content="notranslate">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="title" content="Информация о контенте" />
+        <title>Информация о контенте</title>
+        <link rel="stylesheet" type="text/css" href="/cache/asset/0/cache/css/content_usercontentinfosuccess_b536c7f05cfe502cbc9f92116c042357.css" />
+        <link rel="stylesheet" type="text/css" href="/cache/asset/0/cache/css/legacy_components_customization_f34ae938d96ec58c5efedd37da7851aa.css">
+        <link id="faviconLink" rel="shortcut icon" type="image/x-icon" href="https://sreda.ibs.ru/proxy/learn-cnode-0/uploads/10025887/favicon/favicon.ico?t=1625147043&v=831" />
+        <link rel="manifest" href="/manifest.json">
+                    <link rel="stylesheet" type="text/css" media="print" href="/cache/asset/0/cache/css/print/all_72ac0f10c31bc005e319a1a6a17744f1.css">
+                            <link rel="stylesheet" type="text/css" href="/cache/uikit/0/user-portal/styles/bundle-135a6250b078784caa0bb714a0217091.css">
+            <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=QbBFn2vLUwxB8L1Ud6nce5Kb5wi3r6RqmKzTJI1b5tp0Kl2FUsfzc_MKrTbDn9bYjGvQK6VEpfq1SdPcIA5BTIzhB-qobMArmNWIewhvLviR026VYi12ZBIn3TnQ7NjTLjMTv_Tvw6cSQiT2zziWf-UADKOlONJmpVD8d7Ga3Cc" charset="UTF-8"></script></head>
+        <body class="initializing_view content_view learn">
+        <div id="body_container" class="body_container adaptive_body  layout_uiUserPortal user_portal"
+             >
+                        
+            <input type="hidden" id="unsupportedBrowserPageUrl" value="/unsupported_browser" /><script type="text/javascript" src="/cache/asset/0/cache/js/util/DetectBrowser_1a261579392c74f079010acacce9257f.js"></script>
+<script type="text/javascript" src="/cache/asset/0/cache/js/util/RedirectIfBrowserUnsupportedHandler_2eba8d9e271961369edfe88f48b8e17b.js"></script>
+
+<input type="hidden" data-autoshowing-popup-flash-box value="{&quot;message&quot;:null,&quot;type&quot;:&quot;error&quot;}"/><input type="hidden" id="mobileStub" value="1" /><div
+    data-ui-component
+    data-ui-role-shrunk-by-global-notifications
+    id="courseInfoComponent"    class="ui_component_page"
+    data-props="{&quot;id&quot;:&quot;9837&quot;,&quot;contentProps&quot;:{&quot;isReadOnly&quot;:false,&quot;lpContentItemId&quot;:9837,&quot;lpContentItemUId&quot;:&quot;78ba5c3c-3afc-11ec-9fa3-9ab2a8558499&quot;,&quot;userId&quot;:7174,&quot;isExpired&quot;:false,&quot;selectedTabId&quot;:&quot;structure&quot;,&quot;api&quot;:{&quot;getCourseContentUrl&quot;:&quot;\/questions_answers\/get_course_modules?course_id=78ba5c3c-3afc-11ec-9fa3-9ab2a8558499&quot;,&quot;contentListUrl&quot;:&quot;\/content\/info\/9837\/get_learning_path_structure&quot;},&quot;tabs&quot;:[&quot;reviews&quot;],&quot;restrictions&quot;:{&quot;maxMessageLength&quot;:10000,&quot;maxAttachmentsCount&quot;:20},&quot;showAddReviewPopupOnConnect&quot;:false,&quot;questionsApi&quot;:{&quot;getCoursesUrl&quot;:&quot;\/questions_answers\/get_courses&quot;,&quot;editQuestionUrl&quot;:&quot;\/questions_answers\/edit_question&quot;,&quot;deleteQuestionUrl&quot;:&quot;\/questions_answers\/delete_question&quot;,&quot;addAnswerUrl&quot;:&quot;\/questions_answers\/add_answer&quot;,&quot;editAnswerUrl&quot;:&quot;\/questions_answers\/edit_answer&quot;,&quot;deleteAnswerUrl&quot;:&quot;\/questions_answers\/delete_answer&quot;,&quot;addAttachmentUrl&quot;:&quot;\/questions_answers\/add_attachment&quot;,&quot;deleteAttachmentUrl&quot;:&quot;\/questions_answers\/delete_attachment&quot;,&quot;markViewedQuestionsUrl&quot;:&quot;\/questions_answers\/mark_questions_read&quot;,&quot;getCurrentUserUrl&quot;:&quot;\/questions_answers\/get_current_user&quot;,&quot;getQuestionsUrl&quot;:&quot;\/questions_answers\/get_course_questions&quot;,&quot;addQuestionUrl&quot;:&quot;\/questions_answers\/78ba5c3c-3afc-11ec-9fa3-9ab2a8558499\/add_question&quot;},&quot;reviewsApi&quot;:{&quot;getCourseReviewsUrl&quot;:&quot;\/course\/9837\/get_reviews&quot;,&quot;addReviewUrl&quot;:&quot;\/course\/9837\/add_review&quot;,&quot;editReviewUrl&quot;:&quot;\/course\/9837\/edit_review&quot;,&quot;deleteReviewUrl&quot;:&quot;\/course\/9837\/delete_review&quot;},&quot;router&quot;:[]},&quot;topPanel&quot;:{&quot;logo&quot;:{&quot;imageUrl&quot;:&quot;https:\/\/sreda.ibs.ru\/proxy\/learn-cnode-0\/uploads\/10025887\/user_portal_logo\/uplogo\/thumb_250x64?v=891&quot;},&quot;navigation&quot;:{&quot;pages&quot;:[&quot;content&quot;,&quot;trainings&quot;,&quot;catalog&quot;],&quot;currentPageId&quot;:&quot;content&quot;},&quot;userMenu&quot;:{&quot;userInfo&quot;:{&quot;isAdmin&quot;:false,&quot;login&quot;:&quot;ageeff.ser220@yandex.ru&quot;,&quot;userName&quot;:&quot;\u0410\u0433\u0435\u0435\u0432 \u0421\u0435\u0440\u0433\u0435\u0439&quot;,&quot;email&quot;:&quot;ageeff.ser220@yandex.ru&quot;},&quot;targetPages&quot;:[&quot;profile&quot;,&quot;history&quot;,&quot;logoff&quot;],&quot;api&quot;:{&quot;getUserProfileUrl&quot;:&quot;\/profile\/get\/7174&quot;,&quot;getUserAchievementsSummaryUrl&quot;:&quot;\/profile\/get_achievements_summary\/4f759bb2-9c7b-11ec-be2d-a2db6aabc0b6&quot;}},&quot;achievementsEnabled&quot;:false,&quot;avatarUrl&quot;:&quot;&quot;,&quot;accountExternalLinks&quot;:[{&quot;url&quot;:&quot;https:\/\/zoom.ibs.ru\/workgroups\/group\/192\/&quot;,&quot;title&quot;:&quot;IT MeetUP&quot;,&quot;description&quot;:&quot;\u041c\u0430\u0442\u0435\u0440\u0438\u0430\u043b\u044b \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u043c\u0438\u0442\u0430\u043f\u043e\u0432 \u043a\u043e\u043c\u043f\u0430\u043d\u0438\u0438&quot;}],&quot;messages&quot;:{&quot;enabled&quot;:true,&quot;counter&quot;:0,&quot;api&quot;:{&quot;connector&quot;:{&quot;getConversationsUrl&quot;:&quot;\/messages\/get_conversations&quot;,&quot;getConversationUrl&quot;:&quot;\/messages\/get_conversation&quot;,&quot;deleteConversationUrl&quot;:&quot;\/messages\/delete_conversation&quot;,&quot;getAvailableParticipantsUrl&quot;:&quot;\/messages\/get_available_participants&quot;,&quot;getInitialMessagesUrl&quot;:&quot;\/messages\/get_initial_conversation_messages&quot;,&quot;getOldMessagesUrl&quot;:&quot;\/messages\/get_old_conversation_messages&quot;,&quot;getNewMessagesUrl&quot;:&quot;\/messages\/get_new_conversation_messages&quot;,&quot;getEditedMessageUrl&quot;:&quot;\/messages\/get_message&quot;,&quot;markMessagesAsReadUrl&quot;:&quot;\/messages\/mark_as_read&quot;,&quot;sendMessageUrl&quot;:&quot;\/messages\/send_message&quot;,&quot;editMessageUrl&quot;:&quot;\/messages\/edit_message&quot;,&quot;deleteMessageUrl&quot;:&quot;\/messages\/delete_message&quot;,&quot;addAttachmentUrl&quot;:&quot;\/messages\/add_attachment&quot;,&quot;deleteAttachmentUrl&quot;:&quot;\/messages\/delete_attachment&quot;,&quot;getOpenedPopupDataUrl&quot;:&quot;\/messages\/get_popup_data&quot;},&quot;currentUser&quot;:{&quot;id&quot;:&quot;4f759bb2-9c7b-11ec-be2d-a2db6aabc0b6&quot;,&quot;avatarUrl&quot;:&quot;&quot;},&quot;restrictions&quot;:{&quot;maxMessageLength&quot;:1000,&quot;maxAttachmentsCount&quot;:3}}},&quot;notifications&quot;:{&quot;counter&quot;:16,&quot;api&quot;:{&quot;changeTargetSettingsUrl&quot;:&quot;\/notifications\/set_target_settings&quot;,&quot;getNotificationsTargetUrl&quot;:&quot;\/notifications\/get_target_settings&quot;,&quot;syncNotificationsUrl&quot;:&quot;\/notifications\/sync&quot;,&quot;getNotificationsUrl&quot;:&quot;\/notifications\/get_notifications&quot;,&quot;setUnreadUrl&quot;:&quot;\/notifications\/mark\/read&quot;,&quot;markAllReadUrl&quot;:&quot;\/notifications\/read_all&quot;,&quot;config&quot;:{&quot;isAdminPortal&quot;:false,&quot;canUserViewAdminPortal&quot;:false}}}},&quot;api&quot;:{&quot;getCourseInfoUrl&quot;:&quot;\/content\/info\/9837\/get_course_info?learning_track_id=9855&quot;},&quot;headerImageUrl&quot;:&quot;https:\/\/sreda.ibs.ru\/proxy\/learn-cnode-0\/uploads\/10025887\/cover_image\/1467\/original?v=1467&quot;}"
+></div><input type="hidden" id="learningPathContentItemId" value="9837" />
+<input type="hidden" id="defaultAudioThumbnailUrl" value="/images/media_player/audio_icon.png" /><input type="hidden" id="pingUrl" value="https://sreda.ibs.ru/ping" /><input type="hidden" id="viewContentAjaxUrl" value="/view_content_item_ajax" /><input type="hidden" id="viewResourceAjaxUrl" value="/view_resource_item_ajax" /><input type="hidden" id="showVideoPlaybackSpeedPicker" value="1" /><input type="hidden" id="confirmPopupName" value="ConfirmPopup" />
+<input type="hidden" id="confirmPopupSaveButtonColor" value="accent" /><div class="view_content_overlay">
+    <div id="viewContentOverlayContainer" class="view_content_overlay_container with_toolbar">
+        <div id="viewContentToolbar" class="view_content_toolbar">
+    <h2 id="contentItemTitle" class="content_title ellipsis_text hidden"></h2>
+    <div class="buttons_container">
+        <div class="js_scormplayer scorm_player_toolbar_buttons hidden">
+    <div class="controls">
+        <span
+            class="toolbar_button js_toolbar_button previous"
+            title="Предыдущий"
+        >
+            <span class="toolbar_icon">&nbsp;</span>
+            <span class="toolbar_button_text">Предыдущий</span>
+        </span><!-- This comment is required to avoid spaces between inline-block elements
+     --><span
+            class="toolbar_button js_toolbar_button next"
+            title="Следующий"
+        >
+            <span class="toolbar_button_text">Следующий</span>
+            <span class="toolbar_icon">&nbsp;</span>
+        </span><!--
+     --><div class="toolbar_delimiter js_pause_button_delimiter hidden"></div>
+        <span
+            class="toolbar_button js_toolbar_button pause"
+            title="Отложить"
+        >
+            <span class="toolbar_icon">&nbsp;</span>
+            <span class="toolbar_button_text">Отложить</span>
+        </span><!--
+     --><div class="toolbar_delimiter js_close_button_delimiter hidden"></div>
+    </div>
+</div><!-- This comment is required to avoid spaces between inline-block elements
+     --><span
+            class="toolbar_button js_toolbar_button close hidden"
+            id="toolbarButtonClose"
+            title="Закрыть"
+        >
+            <span class="toolbar_icon">&nbsp;</span>
+        </span>
+        <div class="clearfix"></div>
+    </div>
+    <div class="clearfix"></div>
+</div>
+        <div class="view_content_container_wrapper js_view_content_container_wrapper loading">
+            <div id="contentContainer" class="view_content_container hidden"></div>
+            <div class="view_content_message_block centered_block js_view_content_message_block hidden">
+    <h3 class="js_title_container title_container"></h3>
+    <p class="js_description_container description_container"></p>
+</div><div class="view_content_confirm_block centered_block js_view_content_confirm_block hidden">
+    <h3 class="js_title_container title_container"></h3>
+    <p class="js_description_container description_container"></p>
+    <div class="js_buttons_container buttons_container">
+        <div class="buttons_container_centered">
+            <div class="view_content_confirm_button_container">
+                
+<div id="viewContentConfirmButton"
+     class="button mouse_states js_view_content_confirm_button view_content_confirm_button blue empty_text"
+               data-has-preloader="0"
+     data-role-button
+>
+                    <a class="button_body"
+           href="javascript:void(0);"
+           target="_self"
+        >
+            <span class="button_text" id="viewContentConfirmButtonButtonLabel">
+                    <span class="label"></span>
+            </span>
+            <svg class="button_preloader" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M30 16C30 23.732 23.732 30 16 30C8.26801 30 2 23.732 2 16C2 8.26801 8.26801 2 16 2"
+                    stroke-width="2.5"
+                    stroke-linecap="round"
+                    fill="none"
+                />
+            </svg>
+        </a>
+    </div>
+            </div>
+            <div class="view_content_cancel_button_container">
+                
+<div id="viewContentCancelButton"
+     class="button mouse_states js_view_content_cancel_button view_content_cancel_button white empty_text"
+               data-has-preloader="0"
+     data-role-button
+>
+                    <a class="button_body"
+           href="javascript:void(0);"
+           target="_self"
+        >
+            <span class="button_text" id="viewContentCancelButtonButtonLabel">
+                    <span class="label"></span>
+            </span>
+            <svg class="button_preloader" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M30 16C30 23.732 23.732 30 16 30C8.26801 30 2 23.732 2 16C2 8.26801 8.26801 2 16 2"
+                    stroke-width="2.5"
+                    stroke-linecap="round"
+                    fill="none"
+                />
+            </svg>
+        </a>
+    </div>
+            </div>
+        </div>
+    </div>
+</div><div id="scormPlayerContainer" class="js_scormplayer scorm_player_container hidden">
+    <div class="menu" id="scormMenu">
+        <div class="menu_container">Меню</div>
+    </div>
+    <div class="scorm_content" id="scormContent"></div>
+</div>
+<div id="viewContentInfoBlock" class="view_content_info_block centered_block hidden">
+    <div class="icon_container js_icon_container"></div>
+    <div class="info_container">
+        <h3 class="view_content_title_container js_title_container"></h3>
+        <p class="content_details">
+            Изменен: <span class="js_creation_date_container"></span><br />
+            Размер: <span class="js_content_size"></span>
+        </p>
+        
+<div id="contentInfoBlockDownloadButton"
+     class="button mouse_states download_button js_download_button accent"
+               data-has-preloader="0"
+     data-role-button
+>
+                    <a class="button_body"
+           href="javascript:void(0);"
+           target="_self"
+        >
+            <span class="button_text" id="contentInfoBlockDownloadButtonButtonLabel">
+                    <span class="label">Скачать</span>
+            </span>
+            <svg class="button_preloader" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M30 16C30 23.732 23.732 30 16 30C8.26801 30 2 23.732 2 16C2 8.26801 8.26801 2 16 2"
+                    stroke-width="2.5"
+                    stroke-linecap="round"
+                    fill="none"
+                />
+            </svg>
+        </a>
+    </div>
+    </div>
+    <div class="clearfix"></div>
+</div>        </div>
+    </div>
+</div><script id="viewContentResponse" type="application/json">{"content_item_info":{"id":8068,"learning_path_id":9837,"key":"10025887-yg9jb-Reuwo-vuY3p","title":"\u0417\u0430\u043f\u0438\u0441\u044c \u0441\u043a\u0440\u0438\u043f\u0442\u0430 VuGen","type":"mp4","view_content_url":"\/view\/10025887-yg9jb-Reuwo-vuY3p\/from\/9837","timestamp":1648286942},"redirect_url":null,"view_content_options":{"user_id":7174,"user_uid":"4f759bb2-9c7b-11ec-be2d-a2db6aabc0b6","content_item_id":8068,"content_item_key":"10025887-yg9jb-Reuwo-vuY3p","content_item_type":"mp4","content_item_title":"\u0417\u0430\u043f\u0438\u0441\u044c \u0441\u043a\u0440\u0438\u043f\u0442\u0430 VuGen","content_item_extension":"mp4","content_item_creation_date":"15 \u043e\u043a\u0442. 2021 \u0433.","content_item_formatted_file_size":"233,09 \u041c\u0411","content_item_view_id":524494,"parent_learning_path_id":9837,"content_width":1920,"content_height":1110,"inactivity_logout_timeout":0,"custom_thumbnail_url":null,"is_downloadable":false,"download_url":"https:\/\/sreda.ibs.ru\/proxy\/learn-cnode-0\/content\/10025887-yg9jb-Reuwo-vuY3p\/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LXlnOWpiLVJldXdvLXZ1WTNwIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzQyfQ.IoNLXnIPwhdAxueJGtGL2hOmyA6aL-JcBOwGm1EYQHQ\/video.mp4","view_url":"https:\/\/sreda.ibs.ru\/proxy\/learn-cnode-0\/content\/10025887-yg9jb-Reuwo-vuY3p\/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LXlnOWpiLVJldXdvLXZ1WTNwIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzQyfQ.IoNLXnIPwhdAxueJGtGL2hOmyA6aL-JcBOwGm1EYQHQ\/video.mp4","hls_playlist_url":null,"resume_position":0,"resume_type":null,"resume_state":null,"session_view_key":null,"view_scorm_options":null,"completion_settings":null,"is_legacy_ispring_content":null,"need_to_prevent_window_closing_on_complete":false,"flash_skin_url":null,"storage_access_token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LXlnOWpiLVJldXdvLXZ1WTNwIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzQyfQ.IoNLXnIPwhdAxueJGtGL2hOmyA6aL-JcBOwGm1EYQHQ","meta_final_status_uid":""},"is_view_allowed":true,"view_content_forbidden_reason_info":null,"is_new_version_first_view":false}</script><script data-content-info-container="contentInfoContainer" type="application/json">{"id":8068,"learning_path_id":9837,"key":"10025887-yg9jb-Reuwo-vuY3p","title":"\u0417\u0430\u043f\u0438\u0441\u044c \u0441\u043a\u0440\u0438\u043f\u0442\u0430 VuGen","type":"mp4","view_content_url":"\/view\/10025887-yg9jb-Reuwo-vuY3p\/from\/9837","timestamp":1648286942}</script><input type="hidden" id="syncNotificationsCounter" value="/notifications/sync_counter" />        </div>
+                        <input type="hidden" id="ai" value="10025887" /><input type="hidden" id="aui" value="islru-10025887" />                    <div>
+  <input type="hidden" id="feedbackContentUrl" value="/feedback" />
+  <input type="hidden" id="feedbackSendUrl" value="/feedback/send_to_account_recipient" />
+</div>            <div id="ConfirmPopupOverlay" class="popup_overlay ">
+    <div class="popup_scrolling_container">
+        <div class="popup_centering_wrapper">
+            <div class="popup confirm_popup limited_width_popup" id="ConfirmPopup">
+                <input type="hidden" id="ConfirmPopupPopupId" value="ConfirmPopup" />
+                <input type="hidden" id="ConfirmPopupPopupJSClass" value="ConfirmPopup" />
+                <div class="popup_inner">
+                    <a href="javascript:void(0);" class="close_button">&nbsp;</a>
+                    <div id="ConfirmPopupContent" class="popup_content_container">
+                        <div class="popup_content_container">
+    <div class="popup_header">
+        <h1 class="title_icon"></h1>
+    </div>
+    <div class="popup_content">
+        <p class="text_container"></p>
+    </div>
+    <div class="popup_footer_pre"></div>
+    <div class="popup_footer">
+        <div class="buttons_container">
+            <div id="confirmPopupButtonsSaveCancelButtonsContainer" 
+     class="save_cancel_buttons "
+     data-cancel-as-button="true"
+>
+            
+<div id="confirmPopupButtonsSaveButton"
+     class="button mouse_states  accent"
+               data-has-preloader="0"
+     data-role-button
+>
+                    <a class="button_body"
+           href="javascript:void(0);"
+           target="_self"
+        >
+            <span class="button_text" id="confirmPopupButtonsSaveButtonButtonLabel">
+                    <span class="label">Сохранить</span>
+            </span>
+            <svg class="button_preloader" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M30 16C30 23.732 23.732 30 16 30C8.26801 30 2 23.732 2 16C2 8.26801 8.26801 2 16 2"
+                    stroke-width="2.5"
+                    stroke-linecap="round"
+                    fill="none"
+                />
+            </svg>
+        </a>
+    </div>
+        <div class="cancel_section" id="confirmPopupButtonsCancelSection">
+                    
+<div id="confirmPopupButtonsCancelButton"
+     class="button mouse_states cancel_button white bordered"
+               data-has-preloader="0"
+     data-role-button
+>
+                    <a class="button_body"
+           href="javascript:void(0);"
+           target="_self"
+        >
+            <span class="button_text" id="confirmPopupButtonsCancelButtonButtonLabel">
+                    <span class="label">Отмена</span>
+            </span>
+            <svg class="button_preloader" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+                <path
+                    d="M30 16C30 23.732 23.732 30 16 30C8.26801 30 2 23.732 2 16C2 8.26801 8.26801 2 16 2"
+                    stroke-width="2.5"
+                    stroke-linecap="round"
+                    fill="none"
+                />
+            </svg>
+        </a>
+    </div>
+            </div>
+    <div class="clear"></div>
+</div>        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+                    </div>
+                    <img id="ConfirmPopupProgressIcon" src="/images/ispring-ui/preloader/preloader_white.gif" alt="" class="popup_progress_icon animated" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div><div id="feedbackPopupOverlay" class="popup_overlay ">
+    <div class="popup_scrolling_container">
+        <div class="popup_centering_wrapper">
+            <div class="popup feedback_popup" id="feedbackPopup">
+                <input type="hidden" id="feedbackPopupPopupId" value="feedbackPopup" />
+                <input type="hidden" id="feedbackPopupPopupJSClass" value="FeedbackPopup" />
+                <div class="popup_inner">
+                    <a href="javascript:void(0);" class="close_button">&nbsp;</a>
+                    <div id="feedbackPopupContent" class="popup_content_container">
+                                            </div>
+                    <img id="feedbackPopupProgressIcon" src="/images/ispring-ui/preloader/preloader_white.gif" alt="" class="popup_progress_icon animated" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>                <input type="hidden" id="autoOpenFeedbackPopup" value="0" /><input type="hidden" id="realTimeNotificationServiceSubscriptionData" value="{&quot;token&quot;:&quot;eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJleHAiOjE2NDgzNzMzNDJ9.Q-NDkwQXpdvxFmg2gbE6o2tQL9yPi_Hy9qG1aBpWQ2I&quot;,&quot;url&quot;:&quot;wss:\/\/ibscorp.ispringlearn.ru\/conn\/websocket&quot;,&quot;optionsJson&quot;:{&quot;subscribeEndpoint&quot;:&quot;\/centrifuge\/subscribe&quot;,&quot;refreshEndpoint&quot;:&quot;\/centrifuge\/refresh&quot;}}" /><input type="hidden" id="realTimeMessagingNotificationChannelName" value="user_messages_islru-10025887#4f759bb2-9c7b-11ec-be2d-a2db6aabc0b6" /><input type="hidden" id="realTimeNotificationChannelName" value="user_notification_islru-10025887#4f759bb2-9c7b-11ec-be2d-a2db6aabc0b6" /><input type="hidden" id="realTimeServiceNotificationChannelName" value="service_message_islru-10025887#4f759bb2-9c7b-11ec-be2d-a2db6aabc0b6" /><input type="hidden" id="unreadConversationCountUrl" value="/messages/conversations/count/unread" /><input type="hidden" id="isBrowserErrorLoggingEnabled" value="1" /><input type="hidden" id="locale" value="ru-RU" /><input type="hidden" id="timeZoneName" value="Europe/Moscow" /><input type="hidden" id="timeZoneString" value="UTC+03:00" /><input type="hidden" id="timeZoneUtcOffset" value="10800000" /><input type="hidden" id="timeZoneId" value="39" /><input type="hidden" id="timeZoneTitle" value="(GMT+03:00) Москва" /><input type="hidden" id="serverTimeZoneOffset" value="10800000" /><input type="hidden" id="uilibMessagesUrl" value="/cache/uikit/0/user-portal/lng/ru-RU/messages-d2184f8dd7d51931da3984b9eb689d13.json" /><input type="hidden" id="firstDayOfWeek" value="2" /><input type="hidden" id="accountCreationDate" value="1613722737000" /><input type="hidden" id="designSystemCustomColors" value="{&quot;accent&quot;:&quot;#1b5a73&quot;,&quot;topPanelText&quot;:&quot;#000000&quot;,&quot;topPanelBackground&quot;:&quot;#FFFFFF&quot;,&quot;link&quot;:&quot;#2972E0&quot;}" /><input type="hidden" id="loggedUserLogin" value="ageeff.ser220@yandex.ru" /><input type="hidden" id="accountSubscription" value="{&quot;product&quot;:&quot;learn&quot;,&quot;isSuiteBundled&quot;:false,&quot;isConcurrent&quot;:false,&quot;isTrial&quot;:false,&quot;isMultiLanguage&quot;:false}" /><input type="hidden" id="accountRestrictions" value="[]" /><input type="hidden" id="accountFeatures" value="{&quot;performanceManagement&quot;:false,&quot;messaging&quot;:true}" /><input type="hidden" id="accountUid" value="islru-10025887" /><input type="hidden" id="userUid" value="4f759bb2-9c7b-11ec-be2d-a2db6aabc0b6" /><input type="hidden" id="gossipTokenUrl" value="/get_gossip_token" /><input type="hidden" id="baseUrls" value="{&quot;studio&quot;:&quot;\/s&quot;,&quot;quizmaker&quot;:&quot;\/s\/quizmaker&quot;,&quot;concurrent&quot;:&quot;\/concurrent&quot;,&quot;collab&quot;:&quot;\/collab&quot;,&quot;roll&quot;:&quot;\/s\/longread&quot;,&quot;sharing&quot;:&quot;\/sharing&quot;,&quot;appraisal&quot;:&quot;\/appraisal&quot;}" /><input type="hidden" id="gtmId" value="" />    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/polyfills.min-aa4e5a38d17fbff5eaf70ef528f01776.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/core-polyfill.min-5cf7f9f14f77003d8be217637077c8d4.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/css-vars-ponyfill.min-c7f7be35e4519babc502de92a5df3965.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/url-polyfill.min-6edc6715eae2285bb5b67effe28a0b1e.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/hyper.min-583be0e48e5a78c45adcf784cb3e2c57.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/immer.umd-74e07988dd0f9be2a8120ff3c8505873.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/reatom.umd-bed27c65ef8880e84c0247555eee6f37.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/resizeobserver-dfb20ee71fb6caf5f6c5cbbae6167414.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/focus-visible.min-6f65f2e3e4bbcb26c790ad0f68e052d6.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/stickybits.min-63e3e49cf2cf7bc0a34974b64cc8c8c1.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/runtypes.umd-d72a7a4124e7bb4ca83d7bb1586b0945.js"></script>
+    <script type="text/javascript" src="/cache/uikit/0/user-portal/js/output.min-0bb5454ca7aea42e01d9e9539f1b4c97.js"></script>
+<script type="text/javascript" src="/cache/asset/0/cache/js/messages/Frontend_Messages_ru_RU_a71d0eaced91e51cd57fefeb1140c746.js"></script>
+<script type="text/javascript" src="/cache/asset/0/cache/js/ispring-ui/messages/Frontend_UIMessages_ru_RU_95dd71981765341e7afe2febc92f391f.js"></script>
+<script type="text/javascript" src="/cache/asset/0/cache/js/content_usercontentinfosuccess_0fe722b9c55a3a30fec3da83c743655e.js"></script>
+
+        <script type="text/javascript">
+            $(function() {
+                $.cssStates('.mouse_states');
+            });
+        </script>
+        <input type="hidden" id="registerBrowserToPushNotificationsUrl" value="/notifications/push/register/" />        <div class="image_preload_holder"></div>
+        <div class="ui_tooltips_layer" id="uiTopLayer"></div>
+        <div class="ui_popups_layer" id="uiPopupLayer"></div>
+        <div class="ui_toasts_layer" id="uiToastLayer"></div>
+    </body>
+</html>
+
+0
+

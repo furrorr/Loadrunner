@@ -1,0 +1,17 @@
+[t133]
+FileName1=t133.txt
+URL1=https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-55554816-6&cid=1036189143.1632641083&jid=1713199780&gjid=288236001&_gid=1271469547.1647872441&_u=QCCAgEABAAAAAE~&z=1351178319
+Total=3
+RequestHeaderFile=t133_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t133_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_133.xml
+FileName2=t133f0.htm
+URL2=http://127.0.0.1:1080/WebTours/header.html
+FrameIndex2=0.0
+UseFrameIndex=1
+FileName3=t133_hp_logo.png
+URL3=http://127.0.0.1:1080/WebTours/images/hp_logo.png
+[ProtocolInfo]
+ProtocolId=QTWeb

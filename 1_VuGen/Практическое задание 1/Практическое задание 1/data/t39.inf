@@ -1,0 +1,11 @@
+[t39]
+FileName1=t39.json
+URL1=https://docs.google.com/spreadsheets/d/1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54/streamrows?id=1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54&smv=103&includes_info_params=true&rpwf=a
+Total=1
+RequestHeaderFile=t39_RequestHeader.txt
+RequestBodyFile=t39_RequestBody.txt
+ResponseHeaderFile=t39_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_39.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

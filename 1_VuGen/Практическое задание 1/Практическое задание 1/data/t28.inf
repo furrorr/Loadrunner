@@ -1,0 +1,15 @@
+[t28]
+FileName1=t28.json
+URL1=https://sreda.ibs.ru/content/view/state/persist
+Total=3
+RequestHeaderFile=t28_RequestHeader.txt
+RequestBodyFile=t28_RequestBody.txt
+ResponseHeaderFile=t28_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_28.xml
+FileName2=t28_roboto-v20-latin_cyrillic-500.html
+URL2=https://sreda.ibs.ru/proxy/learn-cnode-0/longread/1/10025887-50CQM-0YVSa-AY1G2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LTUwQ1FNLTBZVlNhLUFZMUcyIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzU2fQ.ytHljFU9rYx7HLJDX6XXALpMyOLpeA1BNZ2tFd2FyOg/fonts/roboto/roboto-v20-latin_cyrillic-500.woff
+FileName3=t28_roboto-italic.html
+URL3=https://sreda.ibs.ru/proxy/learn-cnode-0/longread/1/10025887-50CQM-0YVSa-AY1G2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LTUwQ1FNLTBZVlNhLUFZMUcyIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzU2fQ.ytHljFU9rYx7HLJDX6XXALpMyOLpeA1BNZ2tFd2FyOg/fonts/roboto/roboto-italic.woff
+[ProtocolInfo]
+ProtocolId=QTWeb

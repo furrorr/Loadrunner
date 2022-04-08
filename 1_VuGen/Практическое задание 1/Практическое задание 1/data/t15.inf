@@ -1,0 +1,11 @@
+[t15]
+FileName1=t15_28584306.json
+URL1=https://mc.yandex.ru/watch/28584306?wmode=7&page-url=https%3A%2F%2Ftranslate.yandex.ru%2Focr&page-ref=https%3A%2F%2Ftranslate.yandex.ru%2F%3Flang%3Den-ru%26text%3DCould%2520not%2520reliably%2520determine%2520the%2520server%2527s%2520fully%2520qualified%2520domain%2520name%252C%2520using%2520192.168.0.181%2520for%2520ServerName&charset=utf-8&site-info=%7B%22ui%22%3A%22ru%22%2C%22domain%22%3A%22ru%22%2C%22loggedIn%22%3Atrue%2C%22view%22%3A%22desktop_image%22%2C%22isFirstVisit%22%3Afalse%2C%22firstVisitSrc%22%3A%22organic%22%2C%22deviceType%22%3A%22desktop%22%2C%22expId%22%3A%5B%5D%2C%22browserPrefersDarkMode%22%3Afalse%2C%22darkThemeEnabled%22%3Afalse%2C%22serverSideTranslation%22%3Afalse%7D&ut=noindex&browser-info=pv%3A1%3Agdpr%3A13-0%3Avf%3A1uynsm9oyo3vd5flybi%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A771%3Acn%3A1%3Adp%3A0%3Als%3A1262814279745%3Ahid%3A226268770%3Az%3A300%3Ai%3A20220326142930%3Aet%3A1648286970%3Ac%3A1%3Arn%3A673853106%3Arqn%3A843%3Au%3A1632642798647894685%3Aw%3A1903x927%3As%3A1920x1080x24%3Ask%3A1%3Acpf%3A1%3Aeu%3A0%3Ans%3A1648286943785%3Anp%3AV2luMzI%3D%3Ads%3A0%2C0%2C9255%2C113%2C4%2C0%2C%2C%2C%2C%2C%2C%2C%3Aco%3A0%3Aadb%3A1%3Arqnl%3A1%3Ast%3A1648286970%3At%3A%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%20%D0%BF%D0%BE%20%D1%84%D0%BE%D1%82%D0%BE%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D1%81%20%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%B8%20%D0%B4%D1%80%D1%83%D0%B3%D0%B8%D1%85%20%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%B2%20%E2%80%93%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9F%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4%D1%87%D0%B8%D0%BA&t=gdpr(13-0)aw(0)ti(2)
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_15.xml
+RequestHeaderFile=t15_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t15_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

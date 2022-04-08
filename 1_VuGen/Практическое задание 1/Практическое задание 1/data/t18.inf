@@ -1,0 +1,13 @@
+[t18]
+FileName1=t18.htm
+URL1=https://sreda.ibs.ru/proxy/learn-cnode-0/longread/1/10025887-50CQM-0YVSa-AY1G2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LTUwQ1FNLTBZVlNhLUFZMUcyIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzU2fQ.ytHljFU9rYx7HLJDX6XXALpMyOLpeA1BNZ2tFd2FyOg/index.html
+Total=2
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_18.xml
+FileName2=t18__.gif
+URL2=https://yandex.ru/clck/click/dtype=stred/pid=453/cid=73504/ytr_counter_name=settings_onload/ytr_auto=1/ytr_logged_in=1/ytr_sid=bfec26fa.623ed4f6.70877b3d.74722d696d616765/ytr_srv=tr-image/ytr_ver=v21.40.4/ytr_load_ts=1648284918/ytr_dir=en-ru/ytr_cur_ts=1648286989110/ytr_ui_type=desktop/path=web_desktop.image/_
+[ProtocolInfo]
+ProtocolId=QTWeb

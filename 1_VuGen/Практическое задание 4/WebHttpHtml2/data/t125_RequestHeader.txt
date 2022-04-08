@@ -1,0 +1,16 @@
+GET /api/v1/update?v=5.1.7&xtid=cmedhionkhpnakcndndgjdbohmhepckk HTTP/1.1
+Host: api.adblock-for-youtube.com
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Google Chrome";v="99"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _ga_4NRQJ23B87=GS1.1.1632641092.1.0.1632641092.0; _ga=GA1.2.392403629.1632641092
+

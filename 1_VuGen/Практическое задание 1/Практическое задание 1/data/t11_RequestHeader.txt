@@ -1,0 +1,19 @@
+GET /content/info/9840/from/9855?vc_cik=10025887-50CQM-0YVSa-AY1G2&vc_lpid=9840 HTTP/1.1
+Host: sreda.ibs.ru
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Google Chrome";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+DNT: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: https://sreda.ibs.ru/content/info/9855
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: browser_has_html5_support=true; browser_has_local_storage_support=true; login_form_email=ageeff.ser220%40yandex.ru; onboarding_popup_was_shown=0; _ym_uid=1646965744408491540; _ym_d=1646965744; tmr_lvid=804d947f0a7693424b6edee8dc268547; tmr_lvidTS=1646965744549; _ga=GA1.1.733623412.1646965744; tmr_reqNum=50; _ga_22WCSWHY0B=GS1.1.1646965745.1.1.1646966435.58; _ga_DEYYFT4V9P=GS1.1.1646965745.1.1.1646966435.0; learnsid=u557rt50p29v3aj9lius8a3qtn; _lk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpIjoiZWZmMGI0ZmEtOWM5OS0xMWVjLWIwNTktMTYxZWM2OTZlNzVjIiwidSI6IjRmNzU5YmIyLTljN2ItMTFlYy1iZTJkLWEyZGI2YWFiYzBiNiIsInQiOjAsImV4cCI6MTY1MDg2NTc1OH0.K4aEnLq6w0cWSCHJBn3-whrh6QTBQJhbLGkqDw62Vzk; locale=ru-RU; expiring_sid=u557rt50p29v3aj9lius8a3qtn; st=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1IjoiNGY3NTliYjItOWM3Yi0xMWVjLWJlMmQtYTJkYjZhYWJjMGI2IiwiYSI6ImlzbHJ1LTEwMDI1ODg3IiwiZXhwIjoxNjQ4Mjg4OTk3fQ.CCZFz8Pt_k6DkBjYvnFdIOyWtVlSgvtGG5ykY4CDRJQ
+

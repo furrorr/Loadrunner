@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Cross-Origin-Resource-Policy: cross-origin
+Server: Golfe2
+Content-Length: 35
+Date: Sat, 26 Mar 2022 19:22:56 GMT
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Age: 35178
+Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+Content-Type: image/gif
+Alt-Svc: h3=":443"; ma=2592000
+

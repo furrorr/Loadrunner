@@ -1,0 +1,13 @@
+[t62]
+FileName1=t62.txt
+URL1=https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-55554816-6&cid=1036189143.1632641083&jid=168720465&gjid=1233788703&_gid=1271469547.1647872441&_u=QCCAgEABAAAAAE~&z=545799366
+Total=2
+RequestHeaderFile=t62_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t62_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_62.xml
+FileName2=t62_collect.gif
+URL2=https://www.google-analytics.com/collect?v=1&_v=j96&a=1281301938&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&dp=background.html%3Fv%3D5.1.7&ul=ru-ru&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QCCAgEAB~&jid=168720465&gjid=1233788703&cid=1036189143.1632641083&tid=UA-55554816-6&_gid=1271469547.1647872441&z=1601569576
+[ProtocolInfo]
+ProtocolId=QTWeb

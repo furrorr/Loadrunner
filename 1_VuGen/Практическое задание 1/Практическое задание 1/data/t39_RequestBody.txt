@@ -1,0 +1,2 @@
+"snapshotAt=188&chunks=%5B%220%22%5D&firstChunkHighWatermark=0&cutoffBytesReturned=10485760&cut"
+"offRowsReturned=-1&rowsPerBatch=1000&snapshotType=channel&snapshotRevisionHmac=DTnuxUuUyZGWuA"

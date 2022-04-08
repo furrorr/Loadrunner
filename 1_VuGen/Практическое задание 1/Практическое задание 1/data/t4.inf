@@ -1,0 +1,11 @@
+[t4]
+FileName1=t4.htm
+URL1=https://sreda.ibs.ru/content/info/9837/from/9855?vc_cik=10025887-yg9jb-Reuwo-vuY3p&vc_lpid=9837
+Total=1
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_4.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

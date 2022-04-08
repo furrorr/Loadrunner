@@ -1,0 +1,11 @@
+POST /api/v2/check HTTP/1.1
+Host: sitecheck.opera.com
+Connection: keep-alive
+Content-Length: 63
+Content-Type: application/x-protobuf
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36 OPR/84.0.4316.50
+Accept-Encoding: gzip, deflate, br
+

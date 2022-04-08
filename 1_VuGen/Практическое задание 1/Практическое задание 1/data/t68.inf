@@ -1,0 +1,15 @@
+[t68]
+FileName1=t68.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=11:4RI6PHVSmcNSXUvegYDy6RDzTWPK7tUdpZgEsfyRZCI&cup2hreq=88a18acf11a1fe7647121eb343ef90c07b535ae2e611b2a07822b063e2e51cdc
+Total=2
+RequestHeaderFile=t68_RequestHeader.txt
+RequestBodyFile=t68_RequestBody.txt
+ResponseHeaderFile=t68_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_68.xml
+FileName2=t68f0.htm
+URL2=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

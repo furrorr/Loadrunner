@@ -1,0 +1,13 @@
+[t49]
+FileName1=t49.json
+URL1=https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard
+Total=2
+RequestHeaderFile=t49_RequestHeader.txt
+RequestBodyFile=t49_RequestBody.txt
+ResponseHeaderFile=t49_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_49.xml
+FileName2=t49_collect.gif
+URL2=https://www.google-analytics.com/collect?v=1&_v=j96&a=1265383478&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&dp=background.html%3Fv%3D5.1.7&ul=ru-ru&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QCCAgEAB~&jid=1091321098&gjid=1533222561&cid=1036189143.1632641083&tid=UA-55554816-6&_gid=1271469547.1647872441&z=1023577158
+[ProtocolInfo]
+ProtocolId=QTWeb

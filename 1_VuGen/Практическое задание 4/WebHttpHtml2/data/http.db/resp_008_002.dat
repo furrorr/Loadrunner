@@ -1,0 +1,23 @@
+252
+<?xml version="1.0" encoding="UTF-8"?>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+    
+        <app appid="pphjpkjjljnllpnebififokmoejkeahp" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+        <app appid="aelmefcddnelhophneodelaokjogeemi" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+        <app appid="enegjkbbakeegngfapepobipndnebkdk" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+        <app appid="kbmoiomgmchbpihhdpabemajcbjpcijk" status="ok">
+    <updatecheck status="noupdate" />
+</app>
+    
+</gupdate>
+0
+

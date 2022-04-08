@@ -1,0 +1,3 @@
+"snapshotAt=188&chunks=%5B%220%22%5D&firstChunkHighWatermark=100&cutoffBytesReturned=5242880&cu"
+"toffRowsReturned=-1&rowsPerBatch=1000&snapshotType=decomposed&snapshotRevisionHmac=DTnuxUuUyZG"
+"WuA"

@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Sat, 26 Mar 2022 09:29:16 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: learnsid=u557rt50p29v3aj9lius8a3qtn; path=/; secure; HttpOnly; SameSite=none
+Expires: Sat, 26 Mar 2022 09:29:16 GMT
+Cache-Control: max-age=0, must-revalidate, no-cache, no-store, private
+Set-Cookie: expiring_sid=u557rt50p29v3aj9lius8a3qtn; expires=Sat, 26-Mar-2022 09:59:16 GMT; Max-Age=1800; path=/; secure; httponly
+Set-Cookie: st=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1IjoiNGY3NTliYjItOWM3Yi0xMWVjLWJlMmQtYTJkYjZhYWJjMGI2IiwiYSI6ImlzbHJ1LTEwMDI1ODg3IiwiZXhwIjoxNjQ4Mjg5MDU2fQ.sx6ACSobBU9FsRxlSlpwZkfZ3fAQWIcNuL1_YgJ4GJU; path=/; secure; httponly; samesite=lax
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+

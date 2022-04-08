@@ -1,0 +1,13 @@
+[t122]
+SnapshotXmlFile=snapshot_122.xml
+FileName1=t122.mp4.html
+URL1=https://gx-proxy.operacdn.com/spots/ezgif_com_gif_maker_20_21d8e6d11a.mp4
+Total=2
+RequestHeaderFile=t122_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t122_ResponseHeader.txt
+ContentType=video/mp4
+FileName2=t122_a2c5f64a2ac9522006400bae2b3d815497b6866b.png
+URL2=https://sd-images.operacdn.com/api/v1/images/a2c5f64a2ac9522006400bae2b3d815497b6866b.png
+[ProtocolInfo]
+ProtocolId=QTWeb

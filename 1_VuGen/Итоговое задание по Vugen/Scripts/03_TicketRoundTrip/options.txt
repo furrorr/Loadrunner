@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\ageef\Documents\VuGen\Scripts\03_TicketRoundTrip
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\ageef\documents\vugen\scripts\03_ticketroundtrip\\logfile.log
+c:\users\ageef\documents\vugen\scripts\03_ticketroundtrip\\combined_03_TicketRoundTrip.c
+c:\users\ageef\documents\vugen\scripts\03_ticketroundtrip\\pre_cci.c

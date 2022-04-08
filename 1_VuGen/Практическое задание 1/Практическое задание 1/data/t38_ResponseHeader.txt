@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+X-Robots-Tag: noindex, nofollow, nosnippet
+X-Content-Type-Options: nosniff
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Mon, 01 Jan 1990 00:00:00 GMT
+Date: Sat, 26 Mar 2022 09:29:48 GMT
+Content-Disposition: attachment; filename="json.txt"; filename*=UTF-8''json.txt
+Content-Encoding: gzip
+Content-Security-Policy: base-uri 'self';object-src 'self';report-uri https://docs.google.com/spreadsheets/cspreport;script-src 'report-sample' 'nonce-/9u9417LDFo78WFRe2KJ2A' 'unsafe-inline' 'strict-dynamic' https: http: 'unsafe-eval';worker-src 'self' blob:
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+Server: GSE
+Alt-Svc: h3=":443"; ma=2592000
+Transfer-Encoding: chunked
+

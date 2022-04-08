@@ -1,0 +1,2 @@
+"userSession=133567.621466181ziHADitpfcQVzzzHtVcccpDAHVHf&username=acrobat&password=25924474&lo"
+"gin.x=66&login.y=9&JSFormSubmit=off"

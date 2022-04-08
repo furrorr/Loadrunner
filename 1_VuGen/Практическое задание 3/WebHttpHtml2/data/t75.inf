@@ -1,0 +1,11 @@
+[t75]
+FileName1=t75.txt
+URL1=https://clients4.google.com/ukm
+Total=1
+RequestHeaderFile=t75_RequestHeader.txt
+RequestBodyFile=t75_RequestBody.txt
+ResponseHeaderFile=t75_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_75.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,11 @@
+[t97]
+FileName1=t97.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=11:kDRaDCeNSVF3JHdTMh9v3R4XN0lY8GvQsUtysOLEVNI&cup2hreq=b8cbb5a83d5621d0cfdd481b05f08e8e074d4a04ba3f7a2e065d59c657ab6b4b
+Total=1
+RequestHeaderFile=t97_RequestHeader.txt
+RequestBodyFile=t97_RequestBody.txt
+ResponseHeaderFile=t97_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_97.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

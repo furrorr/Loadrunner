@@ -1,0 +1,11 @@
+[t34]
+FileName1=t34_read.json
+URL1=https://docs.google.com/spreadsheets/d/1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54/trash/read?id=1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54&includes_info_params=true
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_34.xml
+RequestHeaderFile=t34_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t34_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

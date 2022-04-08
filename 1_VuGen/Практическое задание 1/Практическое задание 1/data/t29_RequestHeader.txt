@@ -1,0 +1,19 @@
+GET /stat/slide_view?civ=524497&svk=1deac687-af88-4bc8-a5c8-f2f717412d06&id_resource_view=524497&id_resource=8941&session_view_key=1deac687-af88-4bc8-a5c8-f2f717412d06&slide_index=4&creationDate=1648286990604&validation_key=ispring_content_stats_data__Wsuk4&response_format=json&ai=10025887&accountID=islru-10025887 HTTP/1.1
+Host: sreda.ibs.ru
+Connection: keep-alive
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: application/json, text/javascript, */*; q=0.01
+X-Requested-With: XMLHttpRequest
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Google Chrome";v="99"
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://sreda.ibs.ru/content/info/9840/from/9855?vc_cik=10025887-50CQM-0YVSa-AY1G2&vc_lpid=9840
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: browser_has_html5_support=true; browser_has_local_storage_support=true; login_form_email=ageeff.ser220%40yandex.ru; onboarding_popup_was_shown=0; _ym_uid=1646965744408491540; _ym_d=1646965744; tmr_lvid=804d947f0a7693424b6edee8dc268547; tmr_lvidTS=1646965744549; _ga=GA1.1.733623412.1646965744; tmr_reqNum=50; _ga_22WCSWHY0B=GS1.1.1646965745.1.1.1646966435.58; _ga_DEYYFT4V9P=GS1.1.1646965745.1.1.1646966435.0; learnsid=u557rt50p29v3aj9lius8a3qtn; _lk=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpIjoiZWZmMGI0ZmEtOWM5OS0xMWVjLWIwNTktMTYxZWM2OTZlNzVjIiwidSI6IjRmNzU5YmIyLTljN2ItMTFlYy1iZTJkLWEyZGI2YWFiYzBiNiIsInQiOjAsImV4cCI6MTY1MDg2NTc1OH0.K4aEnLq6w0cWSCHJBn3-whrh6QTBQJhbLGkqDw62Vzk; locale=ru-RU; expiring_sid=u557rt50p29v3aj9lius8a3qtn; st=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1IjoiNGY3NTliYjItOWM3Yi0xMWVjLWJlMmQtYTJkYjZhYWJjMGI2IiwiYSI6ImlzbHJ1LTEwMDI1ODg3IiwiZXhwIjoxNjQ4Mjg5MDY2fQ.393jdFE48YhK5n57pHK96r3Ad1N9lytqRr3-qhl-lDc
+

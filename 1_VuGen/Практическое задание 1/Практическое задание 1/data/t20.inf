@@ -1,0 +1,15 @@
+[t20]
+FileName1=t20.gif
+URL1=https://mc.yandex.ru/watch/28584306?page-url=https%3A%2F%2Ftranslate.yandex.ru%2Focr&charset=utf-8&ut=noindex&browser-info=nb%3A1%3Acl%3A0%3Aar%3A1%3Agdpr%3A13-0%3Avf%3A1uynsm9oyo3vd5flybi%3Afu%3A1%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A771%3Acn%3A1%3Adp%3A0%3Als%3A1262814279745%3Ahid%3A226268770%3Az%3A300%3Ai%3A20220326142949%3Aet%3A1648286989%3Ac%3A1%3Arn%3A511823131%3Arqn%3A844%3Au%3A1632642798647894685%3Aw%3A1903x927%3As%3A1920x1080x24%3Ask%3A1%3Acpf%3A1%3Aeu%3A0%3Ans%3A1648286943785%3Ads%3A%2C%2C%2C%2C%2C%2C%2C10085%2C4%2C45316%2C45316%2C11%2C26574%3Aco%3A0%3Aadb%3A1%3App%3A3629563401%3Arqnl%3A1%3Ast%3A1648286989&t=gdpr(13-0)lt(415800)aw(0)ti(0)&force-urlencoded=1
+Total=2
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_20.xml
+FileName2=t20_polyfills.min.html
+URL2=https://sreda.ibs.ru/proxy/learn-cnode-0/longread/1/10025887-50CQM-0YVSa-AY1G2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LTUwQ1FNLTBZVlNhLUFZMUcyIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzU2fQ.ytHljFU9rYx7HLJDX6XXALpMyOLpeA1BNZ2tFd2FyOg/js/polyfills.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

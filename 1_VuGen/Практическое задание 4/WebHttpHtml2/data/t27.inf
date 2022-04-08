@@ -1,0 +1,15 @@
+[t27]
+FileName1=t27.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=11:qG9Vrz8O2U53eo_WraR1VUqa6xPjPLZ_jEHOOU57Q1I&cup2hreq=0bf0a7b85ccae706c4c17fabb248caafc76e3887488a489ec4d8872336fdb973
+Total=2
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=t27_RequestBody.txt
+ResponseHeaderFile=t27_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_27.xml
+FileName2=t27f0.htm
+URL2=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

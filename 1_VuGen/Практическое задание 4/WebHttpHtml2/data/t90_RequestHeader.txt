@@ -1,0 +1,15 @@
+POST /ukm HTTP/1.1
+Host: clients4.google.com
+Connection: keep-alive
+Content-Length: 1270
+X-Chrome-UMA-Log-SHA1: B7B1BDB53B95B362EAF7323881F47D397EDC722E
+X-Chrome-UMA-Log-HMAC-SHA256: lXNUhkc7E9+nlADyjKOkEkhrKcNblXpRGZgP4L3yXDE=
+X-Chrome-UMA-ReportingInfo: CAE=
+content-encoding: gzip
+Content-Type: application/vnd.chrome.ukm
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+

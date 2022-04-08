@@ -1,0 +1,3 @@
+"families=Amatic%20SC%2CCaveat%2CComfortaa%2CEB%20Garamond%2CLobster%2CLora%2CMerriweather%2CMo"
+"ntserrat%2CNunito%2COswald%2CPacifico%2CPlayfair%20Display%2CRoboto%2CRoboto%20Mono%2CSpectral"
+"&useAllSubsets=true&format=woff2"

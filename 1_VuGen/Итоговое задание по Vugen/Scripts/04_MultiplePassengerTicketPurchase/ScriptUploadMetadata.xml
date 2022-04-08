@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>04_MultiplePassengerTicketPurchase</ScriptName>
+  <Protocol>Web - HTTP/HTML</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.c" Filter="2" />
+    <FileEntry Name="Action.c" Filter="2" />
+    <FileEntry Name="vuser_end.c" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="04_MultiplePassengerTicketPurchase.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="04_MultiplePassengerTicketPurchase.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="combined_04_MultiplePassengerTicketPurchase.c" Filter="2" />
+    <FileEntry Name="pre_cci.c" Filter="2" />
+    <FileEntry Name="04_MultiplePassengerTicketPurchase.c.pickle" Filter="1" />
+    <FileEntry Name="04_MultiplePassengerTicketPurchase.ci" Filter="1" />
+    <FileEntry Name="04_MultiplePassengerTicketPurchase.prm.bak" Filter="1" />
+    <FileEntry Name="05_TwoPassengerTicketPurchase.prm.bak" Filter="1" />
+    <FileEntry Name="109932308440.idx" Filter="1" />
+    <FileEntry Name="129541785440.idx" Filter="1" />
+    <FileEntry Name="265671334440.idx" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="custom_body_variables.txt" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="lrw_custom_body.h" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="NewParam(1).dat" Filter="1" />
+    <FileEntry Name="NewParam(2).dat" Filter="1" />
+    <FileEntry Name="NewParam(3).dat" Filter="1" />
+    <FileEntry Name="NewParam(4).dat" Filter="1" />
+    <FileEntry Name="NewParam.dat" Filter="1" />
+    <FileEntry Name="options.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="placeSeatingPreference.dat" Filter="1" />
+    <FileEntry Name="placeType.dat" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="returnDate.dat" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="TransactionsData.db" Filter="1" />
+    <FileEntry Name="userAddress.dat" Filter="1" />
+    <FileEntry Name="userCity.dat" Filter="1" />
+    <FileEntry Name="userCreditCard.dat" Filter="1" />
+    <FileEntry Name="userExpDate.dat" Filter="1" />
+    <FileEntry Name="userFirstName.dat" Filter="1" />
+    <FileEntry Name="userLastName.dat" Filter="1" />
+    <FileEntry Name="userLastName_2.dat" Filter="1" />
+    <FileEntry Name="userLogin.dat" Filter="1" />
+    <FileEntry Name="userPassengerNames.dat" Filter="1" />
+    <FileEntry Name="userPassengerNames_2.dat" Filter="1" />
+    <FileEntry Name="userPassengerNames_3.dat" Filter="1" />
+    <FileEntry Name="userPassword.dat" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

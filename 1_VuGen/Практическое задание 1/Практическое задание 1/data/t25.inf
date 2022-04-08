@@ -1,0 +1,15 @@
+[t25]
+FileName1=t25.gif
+URL1=https://yandex.ru/clck/click/
+Total=2
+RequestHeaderFile=t25_RequestHeader.txt
+RequestBodyFile=t25_RequestBody.txt
+ResponseHeaderFile=t25_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_25.xml
+FileName2=t25_output.min.html
+URL2=https://sreda.ibs.ru/proxy/learn-cnode-0/longread/1/10025887-50CQM-0YVSa-AY1G2/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJhdSI6ImlzbHJ1LTEwMDI1ODg3IiwidXUiOiI0Zjc1OWJiMi05YzdiLTExZWMtYmUyZC1hMmRiNmFhYmMwYjYiLCJjayI6IjEwMDI1ODg3LTUwQ1FNLTBZVlNhLUFZMUcyIiwiYW0iOjEsImV0IjoxNjQ4ODkxNzU2fQ.ytHljFU9rYx7HLJDX6XXALpMyOLpeA1BNZ2tFd2FyOg/js/output.min.js
+[ProtocolInfo]
+ProtocolId=QTWeb

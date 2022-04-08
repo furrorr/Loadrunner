@@ -1,0 +1,15 @@
+[t44]
+FileName1=t44.json
+URL1=https://docs.google.com/spreadsheets/d/1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54/delta?id=1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54&cr=10&catchupMode=3&msfi=10660&sid=79bd10595b0fef3a&vc=1&c=1&w=1&flr=0&smv=103&includes_info_params=true
+Total=2
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=t44_RequestBody.txt
+ResponseHeaderFile=t44_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_44.xml
+FileName2=t44f0.htm
+URL2=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

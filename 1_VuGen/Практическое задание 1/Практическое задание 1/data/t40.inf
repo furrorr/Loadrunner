@@ -1,0 +1,13 @@
+[t40]
+FileName1=t40.txt
+URL1=https://docs.google.com/spreadsheets/d/1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54/bind?id=1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54&sid=79bd10595b0fef3a&includes_info_params=true&VER=8&lsq=-1&u=PREF_15600869716967587781&vc=1&c=1&w=1&flr=0&gsi&ssfi=6&smv=103&cimpl=0&RID=56951&CVER=1&zx=gf132liwfkjq&t=1
+Total=2
+RequestHeaderFile=t40_RequestHeader.txt
+RequestBodyFile=t40_RequestBody.txt
+ResponseHeaderFile=t40_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_40.xml
+FileName2=t40_rs=AA2YrTtQUSyuCkw4Eioy2v90TKNil1dXIg.html
+URL2=https://www.gstatic.com/og/_/js/k=og.qtm.en_US.uNUkIAvAyj0.O/rt=j/m=qabr,q_dnp,qapid/exm=qaaw,qadd,qaid,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhpr/d=1/ed=1/rs=AA2YrTtQUSyuCkw4Eioy2v90TKNil1dXIg
+[ProtocolInfo]
+ProtocolId=QTWeb

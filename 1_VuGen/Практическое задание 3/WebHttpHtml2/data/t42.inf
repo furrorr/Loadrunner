@@ -1,0 +1,17 @@
+[t42]
+FileName1=t42.txt
+URL1=https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-55554816-6&cid=1036189143.1632641083&jid=1635383399&gjid=1508577711&_gid=1271469547.1647872441&_u=QCCAgEABAAAAAE~&z=110446972
+Total=3
+RequestHeaderFile=t42_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t42_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_42.xml
+FileName2=t42_collect.gif
+URL2=https://www.google-analytics.com/collect?v=1&_v=j96&a=1866688879&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&dp=background.html%3Fv%3D5.1.7&ul=ru-ru&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QCCAgEAB~&jid=1635383399&gjid=1508577711&cid=1036189143.1632641083&tid=UA-55554816-6&_gid=1271469547.1647872441&z=1807463554
+FileName3=t42f0.htm
+URL3=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+FrameIndex3=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

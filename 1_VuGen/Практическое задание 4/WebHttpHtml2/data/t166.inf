@@ -1,0 +1,11 @@
+[t166]
+FileName1=t166.json
+URL1=https://update.googleapis.com/service/update2/json?cup2key=11:L45WcFFVmictycKAj7Ys94N44Rtzkx5XHsF2kgbHSt0&cup2hreq=eee5dafe07bf097173b53c0e7ab833cbb65710597b9e9376d529874ca5bd4b78
+Total=1
+RequestHeaderFile=t166_RequestHeader.txt
+RequestBodyFile=t166_RequestBody.txt
+ResponseHeaderFile=t166_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_166.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

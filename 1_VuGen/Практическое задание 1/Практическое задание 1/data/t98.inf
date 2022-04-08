@@ -1,0 +1,17 @@
+[t98]
+FileName1=t98.txt
+URL1=https://stats.g.doubleclick.net/j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-55554816-6&cid=1036189143.1632641083&jid=698044032&gjid=467670038&_gid=1271469547.1647872441&_u=QCCAgEABAAAAAE~&z=1093836006
+Total=3
+RequestHeaderFile=t98_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t98_ResponseHeader.txt
+ContentType=text/plain
+SnapshotXmlFile=snapshot_98.xml
+FileName2=t98f0.htm
+URL2=http://127.0.0.1:1080/cgi-bin/nav.pl?in=home
+FrameIndex2=0.0
+UseFrameIndex=1
+FileName3=t98_fullHashes_find.html
+URL3=https://safebrowsing.googleapis.com/v4/fullHashes_find?$req=ChwKDGdvb2dsZWNocm9tZRIMOTkuMC40ODQ0LjgyEhsKDQgFEAYYASIDMDAxMAEQ2tUNGgIYA2QdG0oSGwoNCAEQBhgBIgMwMDEwARDTvwoaAhgDPFflkRIbCg0IBxAGGAEiAzAwMTABEKz3ChoCGAMGFx8kEhkKDQgBEAYYASIDMDAxMAMQFBoCGANZvHR9EhoKDQgBEAgYASIDMDAxMAQQiycaAhgDKy03VBIaCg0IDxAGGAEiAzAwMTABEI5xGgIYAyR6MEcSGQoNCAoQCBgBIgMwMDEwARAHGgIYA3dXNzgSGQoNCAkQBhgBIgMwMDEwARAgGgIYA0QGrjMSGgoNCAgQBhgBIgMwMDEwARCBDxoCGAMgzczTEhsKDQgNEAYYASIDMDAxMAEQ77QBGgIYA7gryBYSGwoNCAMQBhgBIgMwMDEwARDzggoaAhgDm-dFSxIbCg0IDhAGGAEiAzAwMTABEIWqBhoCGAPSYG1BEhoKDQgQEAYYASIDMDAxMAEQ2xAaAhgDbPaz2BosCAEIAwgFCAYIBwgICAkICggNCA4IDwgQCBEQARAIGgYKBCahZ4sgASADIAQ=&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+[ProtocolInfo]
+ProtocolId=QTWeb

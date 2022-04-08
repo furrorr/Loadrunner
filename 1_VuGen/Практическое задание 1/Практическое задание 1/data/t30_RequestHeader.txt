@@ -1,0 +1,24 @@
+POST /spreadsheets/font/getmetadata?includes_info_params=true HTTP/1.1
+Host: docs.google.com
+Connection: keep-alive
+Content-Length: 220
+X-Build: trix_2022.11-Tue_RC00
+X-Same-Domain: 1
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+X-Rel-Id: 6f8.2c129852.s
+sec-ch-ua-platform: "Windows"
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Google Chrome";v="99"
+Accept: */*
+Origin: https://docs.google.com
+X-Client-Data: CI22yQEIprbJAQjEtskBCKmdygEIg9LKAQjfgssBCJahywEI6vLLAQie+csBCOeEzAEIpY7MAQjOmMwBCJuczAEIwZ7MAQiaocwBCNCizAE=
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://docs.google.com/spreadsheets/d/1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54/edit
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: S=cloudsearch=Tz4IP-VjIs_znOwuI0vjfpoFHSgk6B1RjYa3bKHRO3w; S=billing-ui-v3=-IVxZDwm2-39J3rcffjvoVJiB-Na0SmE:billing-ui-v3-efe=-IVxZDwm2-39J3rcffjvoVJiB-Na0SmE; googtrans=/auto/ru; SEARCH_SAMESITE=CgQI7JQB; AEC=AVQQ_LBvRPHAcZ0-RBrZQQuggJ49qJjFmwGPPj6RM869iXnL-Ogy90Xojx8; NID=511=HJjES9ttwKw2XBAxOtb7hBWGfylCCeRqXHPQ_HaLg-r5ie_rHmRIGf0CSeA2GFPZ-Cy4ZcArVEeElP0hQP57dlmWfswG_sKCi_LTPBveAVL-RAPlraeiUW-wtBsYHN9s_GZHNhc6ma5i9CFyx_0NWe9uskpkY0rfR8YeYZUEE-_oUkPdCs1C4N6-pgQ8KcWT-ZaUE4T0i5N0Hn8; 1P_JAR=2022-03-26-08; GFE_RTT=646; lbcs=0
+

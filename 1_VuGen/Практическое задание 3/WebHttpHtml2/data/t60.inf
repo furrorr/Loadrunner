@@ -1,0 +1,13 @@
+[t60]
+FileName1=t60.html
+URL1=https://safebrowsing.google.com/safebrowsing/clientreport/crx-list-info?client=googlechrome&appver=99.0.4844.82&pver=4.0&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+Total=2
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=t60_RequestBody.txt
+ResponseHeaderFile=t60_ResponseHeader.txt
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_60.xml
+FileName2=t60_abp-filters-anti-cv.txt
+URL2=https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt?addonName=adblockchrome&addonVersion=4.44.0&application=chrome&applicationVersion=99.0.4844.82&platform=chromium&platformVersion=99.0.4844.82&lastVersion=202203261214&downloadCount=4%2B&disabled=false&firstVersion=202109
+[ProtocolInfo]
+ProtocolId=QTWeb

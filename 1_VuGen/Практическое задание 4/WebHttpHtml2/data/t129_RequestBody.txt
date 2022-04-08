@@ -1,0 +1,3 @@
+"\n"
+"\x89\x01\x08\x05\x12\"TC559f8c0ea706a2ed8005738d5c64af4c\x1A\x16com.touchvpn.extchrome \xA4\xB9"
+"\x02*\x06Chrome2\x06Chrome:\x0FWindows NT 10.0B\x02ruR b1fbd5c88f0e45b10000000881315668"

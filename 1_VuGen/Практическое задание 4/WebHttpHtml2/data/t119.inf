@@ -1,0 +1,13 @@
+[t119]
+FileName1=t119.json
+URL1=https://exchange.opera.com/api/v1/nbu/
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_119.xml
+RequestHeaderFile=t119_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t119_ResponseHeader.txt
+FileName2=t119.xht
+URL2=https://extension-updates.opera.com/api/omaha/update/?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromiumcrx&prodchannel=Stable&prodversion=98.0.4758.109&lang=ru&acceptformat=crx3&x=id%3Dcom.opera.crx.blacklist%26v%3D2022.3.27%26installedby%3Dinternal%26uc
+[ProtocolInfo]
+ProtocolId=QTWeb

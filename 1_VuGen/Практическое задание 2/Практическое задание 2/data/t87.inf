@@ -1,0 +1,12 @@
+[t87]
+FileName1=t87_update.html
+URL1=https://api.adblock-for-youtube.com/api/v1/update?v=5.1.7&xtid=cmedhionkhpnakcndndgjdbohmhepckk
+Total=4
+ContentType=image/gif
+SnapshotXmlFile=snapshot_87.xml
+FileName2=t87_collect.gif
+URL2=https://www.google-analytics.com/collect?v=1&_v=j96&a=1688408555&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&dp=background.html%3Fv%3D5.1.7&ul=ru-ru&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QCCAgEAB~&jid=&gjid=&cid=1036189143.1632641083&tid=UA-55554816-6&_gid=1271469547.1647872441&z=281783691
+FileName3=t87_search.html
+URL3=https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=&oit=0&gs_rn=42&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+FileName4=t87_search.html
+URL4=https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=&oit=0&oft=1&pgcl=7&gs_rn=42&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw

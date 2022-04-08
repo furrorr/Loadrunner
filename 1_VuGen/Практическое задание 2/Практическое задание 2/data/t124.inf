@@ -1,0 +1,8 @@
+[t124]
+FileName1=t124_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=99
+Total=2
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_124.xml
+FileName2=t124_analytics.html
+URL2=https://www.google-analytics.com/analytics.js

@@ -1,0 +1,13 @@
+[t29]
+FileName1=t29.htm
+URL1=https://sreda.ibs.ru/stat/slide_view?civ=524497&svk=1deac687-af88-4bc8-a5c8-f2f717412d06&id_resource_view=524497&id_resource=8941&session_view_key=1deac687-af88-4bc8-a5c8-f2f717412d06&slide_index=4&creationDate=1648286990604&validation_key=ispring_content_stats_data__Wsuk4&response_format=json&ai=10025887&accountID=islru-10025887
+Total=2
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_29.xml
+FileName2=t29_test.txt
+URL2=https://docs.google.com/spreadsheets/d/1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54/test?id=1soVoK3M2kj1tRrsjY0Ek_ewqW0WETPx_6A85I-PUf54&sid=79bd10595b0fef3a&includes_info_params=true&VER=8&lsq=-1&u=PREF_15600869716967587781&vc=1&c=1&w=1&flr=0&gsi&ssfi=0&smv=103&cimpl=0&MODE=init&zx=bp5upqt6vfnp&t=1
+[ProtocolInfo]
+ProtocolId=QTWeb

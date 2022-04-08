@@ -1,0 +1,13 @@
+[t121]
+FileName1=t121.json
+URL1=https://exchange.opera.com/api/v1/cmc/
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_121.xml
+RequestHeaderFile=t121_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t121_ResponseHeader.txt
+FileName2=t121.xht
+URL2=https://extension-updates.opera.com/api/omaha/update/?os=win&arch=x64&os_arch=x86_64&nacl_arch=x86-64&prod=chromiumcrx&prodchannel=Stable&prodversion=98.0.4758.109&lang=ru&acceptformat=crx3&x=id%3Dpphjpkjjljnllpnebififokmoejkeahp%26v%3D0.0.0.0%26installedby%3Dother%26uc&x=id%3Daelmefcddnelhophneodelaokjogeemi%26v%3D0.19.0%26installedby%3Dexternal%26uc&x=id%3Denegjkbbakeegngfapepobipndnebkdk%26v%3D0.9.8%26installedby%3Dother%26uc&x=id%3Dkbmoiomgmchbpihhdpabemajcbjpcijk%26v%3D1.0.0.1%26installedby%3Dother%26uc
+[ProtocolInfo]
+ProtocolId=QTWeb

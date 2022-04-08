@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5_generate_204.html
+URL1=http://www.gstatic.com/generate_204
+Total=2
+ContentType=image/gif
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+FileName2=t5_collect.gif
+URL2=https://www.google-analytics.com/collect?v=1&_v=j96&a=386339509&t=pageview&_s=1&dl=chrome-extension%3A%2F%2Fcmedhionkhpnakcndndgjdbohmhepckk%2F_generated_background_page.html&dp=background.html%3Fv%3D5.1.7&ul=ru-ru&de=UTF-8&sd=24-bit&sr=1920x1080&vp=&je=0&_u=QCCAgEAB~&jid=&gjid=&cid=1036189143.1632641083&tid=UA-55554816-6&_gid=1271469547.1647872441&z=857605696
+[ProtocolInfo]
+ProtocolId=QTWeb

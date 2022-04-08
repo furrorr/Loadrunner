@@ -1,0 +1,20 @@
+POST /j/collect?t=dc&aip=1&_r=3&v=1&_v=j96&tid=UA-55554816-6&cid=1036189143.1632641083&jid=479501422&gjid=1526732030&_gid=1271469547.1647872441&_u=QCCAgEABAAAAAE~&z=1850810195 HTTP/1.1
+Host: stats.g.doubleclick.net
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Google Chrome";v="99"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Content-Type: text/plain
+Accept: */*
+Origin: chrome-extension://cmedhionkhpnakcndndgjdbohmhepckk
+X-Client-Data: CI22yQEIprbJAQjEtskBCKmdygEIg9LKAQiTocsBCJ75ywEI54TMAQibnMwBCNCizAE=
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: IDE=AHWqTUnjnQBxJPRjRgKwU-LrdNGB4Qpp9CH96Gci0aVCKAHmOwoMD1cLJrEkz9f4zEU
+

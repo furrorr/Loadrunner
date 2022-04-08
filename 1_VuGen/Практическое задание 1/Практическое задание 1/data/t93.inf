@@ -1,0 +1,8 @@
+[t93]
+FileName1=t93_header.html
+URL1=http://127.0.0.1:1080/WebTours/header.html
+Total=2
+ContentType=text/javascript
+SnapshotXmlFile=snapshot_93.xml
+FileName2=t93_analytics.html
+URL2=https://www.google-analytics.com/analytics.js

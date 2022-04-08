@@ -1,0 +1,19 @@
+POST /watch/28584306?page-url=https%3A%2F%2Ftranslate.yandex.ru%2Focr&charset=utf-8&ut=noindex&browser-info=nb%3A1%3Acl%3A0%3Aar%3A1%3Agdpr%3A13-0%3Avf%3A1uynsm9oyo3vd5flybi%3Afu%3A1%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A771%3Acn%3A1%3Adp%3A0%3Als%3A1262814279745%3Ahid%3A226268770%3Az%3A300%3Ai%3A20220326142949%3Aet%3A1648286989%3Ac%3A1%3Arn%3A511823131%3Arqn%3A844%3Au%3A1632642798647894685%3Aw%3A1903x927%3As%3A1920x1080x24%3Ask%3A1%3Acpf%3A1%3Aeu%3A0%3Ans%3A1648286943785%3Ads%3A%2C%2C%2C%2C%2C%2C%2C10085%2C4%2C45316%2C45316%2C11%2C26574%3Aco%3A0%3Aadb%3A1%3App%3A3629563401%3Arqnl%3A1%3Ast%3A1648286989&t=gdpr(13-0)lt(415800)aw(0)ti(0)&force-urlencoded=1 HTTP/1.1
+Host: mc.yandex.ru
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="99", "Google Chrome";v="99"
+DNT: 1
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://translate.yandex.ru
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://translate.yandex.ru/ocr
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: yandexuid=4879413561632641113; yabs-sid=957149091632641183; yuidss=4879413561632641113; ymex=1948001183.yrts.1632641183#1948001183.yrtsi.1632641183; is_gdpr=0; gdpr=0; _ym_uid=1632642798647894685; is_gdpr_b=CMm0CBDaRygC; L=e15kd0VKWloGR3NCUlcLe1RmAlQKfG1OJSMVCAUrfAUmGn9ZcQ==.1632651956.14740.327684.f8a5d21b1b9d2a6b8171964bcaf27d8f; yandex_login=ageeff.ser220; i=Ku0C5QfMa56RMxB/A3H3zsTTL+Tw7n55+dp9m0Qj79/r5IjWF/oF6wRuF1O9zo0K41oww4poQaGEeRAFghbV9X2nzY8=; my=YwA=; yp=1948011956.udn.cDrQodC10YDQs9C10Lk%3D#1649564641.szm.1_25:1536x864:1536x722#1641752816.ygu.1#1639420016.clh.2327486; _ym_d=1640945026; skid=7795696381641037791; yabs-frequency=/5/0000000000000000/iY-PFDtI_ssRHFp____QagJCGnBgSfX48000/; instruction=1; ys=udn.cDrQodC10YDQs9C10Lk%3D#c_chck.1275550386; y360w.xpnd.201121439=0; Session_id=3:1648087308.5.0.1632651956568:IAb4sg:1a.1.2:1|201121439.0.2|3:249881.543200.CiZyBSJDadBsLSxVGMximqo1_W0; sessionid2=3:1648087308.5.0.1632651956568:IAb4sg:1a.1.2:1|201121439.0.2|3:249881.543200.CiZyBSJDadBsLSxVGMximqo1_W0; _ym_isad=1; _yasc=4A5ey7VFXYYDZpE0WJq46Vmck8CyG7LAurgQPfeGLOpvrXeCOTJD0kzOT+DQk6At
+
